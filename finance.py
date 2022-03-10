@@ -1,6 +1,6 @@
-goal_salary = YOUR GOAL SALARY
-gross = GROSS SALARY
-starting = CURRENT INVESTMENTS
+goal_salary = YOUR_GOAL_SALARY_FROM_SAVINGS
+gross = GROSS_SALARY
+starting = CURRENT_INVESTMENTS
 saving_percent = .25
 tax= .35
 _401k = 0.03
