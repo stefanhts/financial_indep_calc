@@ -13,9 +13,6 @@ def calc_bal(income, balance):
     return balance
 
 inc = saving_percent * (1-tax) * gross + (_401k*2 * (1-tax) * gross)
-
-bal = starting
-years = 0
 print("Assuming 7.5% average salary increase per year")
 
 inc = saving_percent * (1-tax) * gross + (_401k*2 * (1-tax) * gross)
