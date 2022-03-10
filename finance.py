@@ -26,5 +26,4 @@ while bal < savings_req:
     inc *= 1.075
     years += 1
     print("Year: ", years, "balance:", '${:,.2f}'.format(bal))
-    #print("Year: ", years, "balance:", '${:,.2f}'.format(bal))
 print("Investing "+ str(100*saving_percent)+"% at the annual S&P return rate of 8%, yields ", '${:,.2f}'.format(bal), " at", years + 23, "years old")
